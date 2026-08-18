@@ -1,0 +1,85 @@
+body{
+    background-color: #3d141d;
+}
+ul{
+    display: flex;
+    list-style: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    gap: 60px;
+    justify-content: right;
+    font-size: 25px;
+    margin-right: 120px;
+}
+.logo{
+    width: 80px;
+}
+.logo_text{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.logos{
+    margin-right: 600px;
+    display: flex;
+    margin-top: -20px;
+}
+
+.head1{
+     font-family: "Cookie", cursive;
+     color: #ec9428;
+     font-style: italic;
+     font-size: 70px;
+     font-weight: 300;
+}
+.head2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 40px;
+    line-height: 55px;
+}
+p{
+    color: white;
+    line-height: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+}
+
+.order{
+    background-color: #ec9428;
+    color: #3d141d;
+    border: none;
+    width: 160px;
+    height: 60px;
+    font-size: 20px;
+    border-radius: 30px;
+    font-weight: bold;
+    margin-right: 30px;
+}
+.contact{
+    width: 170px;
+    height: 60px;
+    font-size: 20px;
+    border-radius: 30px;
+    font-weight: bold;
+     background-color: transparent;
+    color:white;
+    border: 2px solid white;
+}
+
+.text{
+    margin-top: 180px;
+    margin-left: 130px;
+}
+
+.image{
+    display: flex;
+    justify-content: right;
+    margin-top: -500px;
+
+}
+.cupPic{
+    width: 600px;
+    margin-right: 200px;
+}
