@@ -1,0 +1,201 @@
+body{
+    background-color: #3d141d;
+    overflow-x: hidden;
+}
+ul{
+    display: flex;
+    list-style: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    gap: 60px;
+    justify-content: right;
+    font-size: 25px;
+    margin-right: 120px;
+}
+.logo{
+    width: 80px;
+}
+.logo_text{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.logos{
+    margin-right: 600px;
+    display: flex;
+    margin-top: -20px;
+}
+
+.head1{
+     font-family: "Cookie", cursive;
+     color: #ec9428;
+     font-style: italic;
+     font-size: 70px;
+     font-weight: 300;
+}
+.head2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 40px;
+    line-height: 55px;
+}
+p{
+    color: white;
+    line-height: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+}
+
+.order{
+    background-color: #ec9428;
+    color: #3d141d;
+    border: none;
+    width: 160px;
+    height: 60px;
+    font-size: 20px;
+    border-radius: 30px;
+    font-weight: bold;
+    margin-right: 30px;
+}
+.contact{
+    width: 170px;
+    height: 60px;
+    font-size: 20px;
+    border-radius: 30px;
+    font-weight: bold;
+     background-color: transparent;
+    color:white;
+    border: 2px solid white;
+}
+
+.text{
+    margin-top: 180px;
+    margin-left: 130px;
+}
+
+.image{
+    display: flex;
+    justify-content: right;
+    margin-top: -500px;
+
+}
+.cupPic{
+    width: 600px;
+    margin-right: 200px;
+}
+
+.aboutUs{
+    background-color: white;
+    height: 700px;
+}
+.aboutPic{
+    width: 400px;
+    height: 400px;
+    margin-top: 150px;
+    margin-left: 130px;
+    border-radius: 100%;
+}
+.aboutText{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+   margin-left: 656px;
+   margin-top: -350px;
+ 
+}
+.para{
+    text-transform: none;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+.head3{
+    font-size: 45px;
+    margin-left: 500px;
+    margin-bottom: 10px;
+}
+.socialIcons img{
+    width: 30px;
+    margin-left: 25px;
+}
+.socialIcons{
+    margin-left: 530px;
+}
+.menu-section{
+    margin-top: -30px;
+    background-color: #252525;
+    height: 1000px;
+}
+
+.head4{
+  color: white;
+  font-size: 45px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+
+}
+.ruler{
+    margin-top: -20px;
+}
+.menu-cards img{
+  width: 200px;
+}
+.menu-cards h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.menu-cards p{
+    font-size: 18px;
+}
+.menu-cards{
+    display: flex;
+    gap: 400px;
+    row-gap: 40px;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+.testimonial-card img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+
+}
+.testimonial-card p{
+    color: black;
+}
+.testimonial-card{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    gap: 150px;
+    
+}
+.head5{
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+}
+.testimonial{
+    background-color: #faf4f4;
+    margin-top: -30px;
+    height: 700px;
+}
+
+.gallery-section{
+    background-color: white;
+}
+.gallery-section h1{
+    font-size: 45px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+}
+
+.gallery-section img{
+    height: 400px;
+    width: 500px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
